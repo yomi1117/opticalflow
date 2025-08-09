@@ -43,7 +43,7 @@ class ProcessResult:
 
 class OpticalFlowProcessor:
     """
-    光流处理器 - 优雅简洁版本
+    光流处理器 - 简洁版本
     
     功能:
     - 处理单个视频文件
